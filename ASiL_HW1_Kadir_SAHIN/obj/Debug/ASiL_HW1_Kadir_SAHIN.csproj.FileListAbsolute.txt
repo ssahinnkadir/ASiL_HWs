@@ -1,0 +1,10 @@
+C:\Users\kadir\Desktop\Visual Studio\ASiL_HW1_Kadir_SAHIN\bin\Debug\ASiL_HW1_Kadir_SAHIN.exe.config
+C:\Users\kadir\Desktop\Visual Studio\ASiL_HW1_Kadir_SAHIN\bin\Debug\ASiL_HW1_Kadir_SAHIN.exe
+C:\Users\kadir\Desktop\Visual Studio\ASiL_HW1_Kadir_SAHIN\bin\Debug\ASiL_HW1_Kadir_SAHIN.pdb
+C:\Users\kadir\Desktop\Visual Studio\ASiL_HW1_Kadir_SAHIN\obj\Debug\ASiL_HW1_Kadir_SAHIN.csprojAssemblyReference.cache
+C:\Users\kadir\Desktop\Visual Studio\ASiL_HW1_Kadir_SAHIN\obj\Debug\ASiL_HW1_Kadir_SAHIN.Form1.resources
+C:\Users\kadir\Desktop\Visual Studio\ASiL_HW1_Kadir_SAHIN\obj\Debug\ASiL_HW1_Kadir_SAHIN.Properties.Resources.resources
+C:\Users\kadir\Desktop\Visual Studio\ASiL_HW1_Kadir_SAHIN\obj\Debug\ASiL_HW1_Kadir_SAHIN.csproj.GenerateResource.cache
+C:\Users\kadir\Desktop\Visual Studio\ASiL_HW1_Kadir_SAHIN\obj\Debug\ASiL_HW1_Kadir_SAHIN.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\Visual Studio\ASiL_HW1_Kadir_SAHIN\obj\Debug\ASiL_HW1_Kadir_SAHIN.exe
+C:\Users\kadir\Desktop\Visual Studio\ASiL_HW1_Kadir_SAHIN\obj\Debug\ASiL_HW1_Kadir_SAHIN.pdb
